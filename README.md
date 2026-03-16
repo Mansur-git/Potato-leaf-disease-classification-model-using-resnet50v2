@@ -86,14 +86,6 @@ pillow
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push & PR!
 
-## 📄 Citation
-```
-Built for Unoteam Software Pvt Ltd internship project
-Mansur Shaik - AI Engineer
-```
-
-## 🚀 Deployed Demo
-🔗 [Live Streamlit App](https://your-streamlit-app-url.streamlit.app)
 
 ***
 
