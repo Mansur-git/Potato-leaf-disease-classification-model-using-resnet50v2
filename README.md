@@ -70,22 +70,6 @@ streamlit run app.py
 
 **Training took ~45 mins on RTX 3060** with 30+20 epochs.
 
-## 📁 Project Structure
-```
-├── PLD_3_Classes_256/          # Dataset (Training/Validation)
-├── train.py                    # Full training pipeline
-├── app.py                      # Streamlit prediction interface
-├── potato_leaf_model_resnet50v2.h5  # Trained model (~90MB)
-├── requirements.txt
-└── README.md
-```
-
-## 🎯 Streamlit Demo Features
-- Upload potato leaf image (PNG/JPG)
-- Real-time prediction with confidence scores
-- Disease severity indicator
-- Comparison with healthy leaf reference
-- Model performance metrics display
 
 ## ⚙️ Requirements
 ```txt
